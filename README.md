@@ -1,1 +1,1 @@
-# Code
+# Contains ASP.NET MVC sample movie application

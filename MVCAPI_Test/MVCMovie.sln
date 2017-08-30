@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVCAPI_Test\MVC.csproj", "{B9F12FA5-E809-4387-A6DC-D04D89AE2357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Browser", "Web Browser\Web Browser.csproj", "{0C2945CE-2E69-49CA-88AC-30059045F5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F12FA5-E809-4387-A6DC-D04D89AE2357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F12FA5-E809-4387-A6DC-D04D89AE2357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F12FA5-E809-4387-A6DC-D04D89AE2357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F12FA5-E809-4387-A6DC-D04D89AE2357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2945CE-2E69-49CA-88AC-30059045F5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2945CE-2E69-49CA-88AC-30059045F5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2945CE-2E69-49CA-88AC-30059045F5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2945CE-2E69-49CA-88AC-30059045F5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
